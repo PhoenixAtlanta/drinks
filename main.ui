@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>569</width>
-    <height>334</height>
+    <height>343</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -22,6 +22,19 @@
       <width>551</width>
       <height>271</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_change">
+    <property name="geometry">
+     <rect>
+      <x>424</x>
+      <y>280</y>
+      <width>121</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>добавить/изменить</string>
     </property>
    </widget>
   </widget>
